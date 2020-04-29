@@ -19,3 +19,8 @@ Work in progress
 ## Documentation
 You can read our final technical documentation about this project here (report todo)
 
+## Paper examples
+Sapientino, Minecraft, Breakout
+
+## New implemented examples
+todo
