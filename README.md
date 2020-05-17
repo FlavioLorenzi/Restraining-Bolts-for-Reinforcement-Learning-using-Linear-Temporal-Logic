@@ -43,6 +43,9 @@ $ python game.py Chess4 Sarsa new_trainfile
 ## Plot the results
 $ python plotresults.py -datafiles data/new_training
 
+## Video
+[![SC2 Video](clip_training.mov)]
+
 ## References
 Original Paper, Università La Sapienza Roma
 - https://aaai.org/Papers/AAAI/2020GB/SCT-De%20GiacomoG.703.pdf
