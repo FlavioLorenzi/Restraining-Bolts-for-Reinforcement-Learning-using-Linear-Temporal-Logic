@@ -31,7 +31,7 @@ RL + RB: the robot is fixed on yellow square: its end effector moves around the 
 
 
 ## Documentation
-You can see our final slide presentation about this project in Documents Folder
+You can see our final slide presentation about this project in Documents folder
 
 Here there is also the main reference paper of our work.
 
@@ -43,14 +43,15 @@ $ python game.py Chess4 Sarsa new_trainfile
 ## Plot the results
 $ python plotresults.py -datafiles data/new_training
 
-## Video
-[![SC2 Video](clip_training.mov)]
-
 ## References
-Original Paper, Università La Sapienza Roma
+Main reference Paper, Università La Sapienza Roma
 - https://aaai.org/Papers/AAAI/2020GB/SCT-De%20GiacomoG.703.pdf
 
 RL_GAMES: Iocchi,De giacomo, Patrizi, Università La Sapienza Roma
 - https://sites.google.com/diag.uniroma1.it/restraining-bolt
 
+Non markovian Rewards expressed in LTL
+- https://www.cs.toronto.edu/~acamacho/papers/cam-che-san-mci-goalsrl18-poster.pdf
 
+## Video with best learned policy
+![SC2 Video](video/clip_training.mov)
