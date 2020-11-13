@@ -5,7 +5,6 @@ Università La Sapienza Roma
 <a href="https://www.dis.uniroma1.it/"><img src="http://www.dis.uniroma1.it/sites/default/files/marchio%20logo%20eng%20jpg.jpg" width="500"></a>
 
 
-
 ## Approach (First Example)
 Reasoning Agents project: Reinforcement Learning and Restraining Bolts with LTL specifications
 
@@ -27,6 +26,10 @@ Pick And Place Robot (future work)
 The environment is completed, but there is only the link with RL part: the Linear Temporal Logic is only sketched (so the Restraining Bolts specifications are not implemented)
 
 RL + RB: the robot is fixed on yellow square: its end effector moves around the 3x3 grid, it must learn to take the current item from the green square each time and bring it on each red shelf, by following the order RB specification (not randomly)
+
+## Restraining Bolts
+In science fiction (as in the Star Wars movie) Restraining bolts were small, cylindrical devices that could be affixed to a droid in order to limit its functions and enforce its obedience. When inserted, a restraining bolt restricted the droid from any movement its master did not desire, and also forced it to respond to signals produced by a hand-held control unit. Some droids felt sheer horror at the mere mention of restraining bolts. 
+![](rb.jpg)
 
 
 ## Team
